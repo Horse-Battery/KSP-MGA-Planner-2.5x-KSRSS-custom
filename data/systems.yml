@@ -21,6 +21,9 @@
 - name: KSRSS Reborn
   folderName: ksrss
 
+- name: 2.5x Scale KSRSS
+  folderName: 2.5ksrss
+
 # Template:
 # - name: New Solar System
 #   folderName: new-solar-system
