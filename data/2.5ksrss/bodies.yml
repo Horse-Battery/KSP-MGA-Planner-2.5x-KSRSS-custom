@@ -1,0 +1,119 @@
+- !!map
+  id:                 0
+  name:               Sun
+  radius:             218000000
+  mass:               1.1070823906626912e+29
+  stdGravParam:       7389000000000000000
+  soi:                .inf
+  color:              0xffff00
+
+- !!map
+  id:                 1
+  name:               Mercury
+  radius:             574425
+  mass:               1.8423206261019724e+22
+  stdGravParam:       1229620055479.2393
+  soi:                26492153.57651643
+  orbit:
+    semiMajorAxis:    13634623669
+    eccentricity:     0.2056187266319207
+    inclination:      28.60252108855048
+    argOfPeriapsis:   66.90371044151551
+    ascNodeLongitude: 10.86541167564728
+  meanAnomaly0:       5.553920558995985
+  epoch:              0
+  orbiting:           0
+  color:              0x515059
+
+- !!map
+  id:                 2
+  name:               Venus
+  radius:             1424232.5
+  atmosphereAlt:      68000
+  mass:               2.6942951298465384e+23
+  stdGravParam:       17982533985134.75
+  soi:                144766796.14249247
+  orbit:
+    semiMajorAxis:    25477855714
+    eccentricity:     0.006810339650842032
+    inclination:      24.46397633556437
+    argOfPeriapsis:   123.7121294282329
+    ascNodeLongitude: 7.981603378781639
+  meanAnomaly0:       5.432267392125204
+  epoch:              0
+  orbiting:           0
+  color:              0xb26128
+
+- !!map
+  id:                 3
+  name:               Kerbin
+  radius:             1500000
+  atmosphereAlt:      69000
+  mass:               3.307088383800549e+23
+  stdGravParam:       22072500000000
+  soi:                217235189.33513656
+  orbit:
+    semiMajorAxis:    35222796466
+    eccentricity:     0.01609636160505683
+    inclination:      23.44603795469773
+    argOfPeriapsis:   102.9720683296131
+    ascNodeLongitude: 359.9965004168758
+  meanAnomaly0:       6.231885654519576
+  epoch:              0
+  orbiting:           0
+  color:              0x4662
+
+- !!map
+  id:                 4
+  name:               Ryugu
+  radius:             435
+  mass:               55606231252715.64
+  stdGravParam:       3711.3266925
+  soi:                30286.012776861076
+  orbit:
+    semiMajorAxis:    39890060390
+    eccentricity:     0.206077710724101
+    inclination:      22.24792575091765
+    argOfPeriapsis:   114.9978008558331
+    ascNodeLongitude: 345.1380040767809
+  meanAnomaly0:       237.7027941664437
+  epoch:              0
+  orbiting:           0
+  color:              0xffffff
+
+- !!map
+  id:                 5
+  name:               Mars
+  radius:             794830
+  atmosphereAlt:      58000
+  mass:               3.5180553123344218e+22
+  stdGravParam:       2348055657111.363
+  soi:                135078242.29245117
+  orbit:
+    semiMajorAxis:    53670582963
+    eccentricity:     0.09326110278323557
+    inclination:      24.69272426910055
+    argOfPeriapsis:   332.1022655295414
+    ascNodeLongitude: 3.351911063089117
+  meanAnomaly0:       2.9564361325350452
+  epoch:              0
+  orbiting:           0
+  color:              0xa06230
+
+- !!map
+  id:                 6
+  name:               Ceres
+  radius:             111367.5
+  mass:               52848162422262980000
+  stdGravParam:       3527244904.549098
+  soi:                18203859.62508591
+  orbit:
+    semiMajorAxis:    97414475964
+    eccentricity:     0.079363494880566
+    inclination:      27.1273394923134
+    argOfPeriapsis:   129.19102663711
+    ascNodeLongitude: 23.4501727740666
+  meanAnomaly0:       1.0500332058738224
+  epoch:              0
+  orbiting:           0
+  color:              0x7f7f7f
